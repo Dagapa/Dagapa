@@ -1,4 +1,10 @@
-### Hi, I'm David 👋
+### Hola, soy David.
+
+FullStack Developer, principalmente enfocando en el área frontend con frameworks como react y en el backend con nodeJs y express. 
+
+Estas son las tecnologías que más uso en mis proyectos:
+
+ ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Dagapa&theme=blue-green)
 
 <!--
 **Dagapa/Dagapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
