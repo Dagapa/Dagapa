@@ -1,6 +1,17 @@
-### Hola, soy David.
+¡Hola! 👋
+Soy David Gallego, un desarrollador frontend y backend con experiencia en el campo de la programación. He adquirido mis conocimientos a través de mi formación autodidacta y de mi experiencia en el bootcamp de programación Soy Henry, así como de plataformas digitales de aprendizaje como Platzi y Udemy.
 
-FullStack Developer, principalmente enfocando en el área frontend con frameworks como react y en el backend con nodeJs y express. 
+¿Qué puedo hacer?
+Como desarrollador frontend y backend, puedo ayudarte a crear aplicaciones web completas desde cero, desde la interfaz de usuario hasta la lógica del servidor y la base de datos. Además, tengo experiencia en el uso de diferentes tecnologías y lenguajes de programación, como:
+
+HTML, CSS y JavaScript
+React y Redux
+Node.js y Express
+MongoDB y MySQL
+TypeScript
+Y más...
+¿Cómo contactarme?
+Puedes encontrarme en mi repositorio de GitHub o enviarme un mensaje a través de mi correo electrónico: correo electrónico. Siempre estoy dispuesto a hablar sobre programación y colaborar en proyectos emocionantes, así que no dudes en contactarme. ¡Espero tener noticias tuyas pronto!
 
 <!--
 **Dagapa/Dagapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
