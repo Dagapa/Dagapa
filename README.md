@@ -1,12 +1,6 @@
-# David Gallego
-
-✨ **Desarrollador Frontend 💻** ✨
-
----
-
 ## 👋 ¡Hola, bienvenido a mi perfil de GitHub!
 
-Soy **David Gallego**, un desarrollador con **2 años de experiencia profesional** creando aplicaciones web robustas y escalables. Mi formación combina el aprendizaje autodidacta, para mantenerme siempre actualizado en las últimas tendencias tecnológicas.
+Soy **David Gallego**, un desarrollador con **2 años de experiencia profesional en desarrollo frontend** creando aplicaciones web robustas y escalables. Mi formación combina el aprendizaje autodidacta, para mantenerme siempre actualizado en las últimas tendencias tecnológicas.
 
 ---
 
