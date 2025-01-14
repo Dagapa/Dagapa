@@ -1,6 +1,6 @@
 # David Gallego
 
-✨ **Desarrollador Full Stack | Frontend y Backend** ✨
+✨ **Desarrollador Frontend 💻** ✨
 
 ---
 
