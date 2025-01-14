@@ -1,25 +1,23 @@
+# ✨ **Desarrollador Frontend Especializado en Aplicaciones Web** ✨
+
+---
+
 ## 👋 ¡Hola, bienvenido a mi perfil de GitHub!
 
-Soy **David Gallego**, un desarrollador con **2 años de experiencia profesional en desarrollo frontend** creando aplicaciones web robustas y escalables. Mi formación combina el aprendizaje autodidacta, para mantenerme siempre actualizado en las últimas tendencias tecnológicas.
+Soy **David Gallego**, un desarrollador con **2 años de experiencia profesional en desarrollo frontend**. Me dedico a crear aplicaciones web modernas, escalables y visualmente atractivas. Mi formación incluye aprendizaje autodidacta continuo, permitiéndome mantenerme actualizado en las últimas tecnologías y mejores prácticas del desarrollo web.
 
 ---
 
 ## ⚡ Habilidades y Tecnologías
 
-Como desarrollador full stack, me especializo en construir aplicaciones desde el diseño de interfaces atractivas hasta la gestión de bases de datos y servidores. Estas son algunas de las tecnologías y herramientas con las que trabajo:
+Como desarrollador frontend, mi enfoque está en diseñar y construir interfaces de usuario intuitivas y funcionales. Estas son algunas de las tecnologías y herramientas que utilizo:
 
 ### **Frontend**
 
 - HTML5, CSS3 y Sass
 - JavaScript (ES6+), TypeScript
-- React y nextJs
-- Responsive Design
-
-### **Backend**
-
-- Node.js, Express
-- Bases de datos: MongoDB, MySQL
-- Autenticación y autorización (JWT, OAuth)
+- React y Next.js
+- Diseño Responsive (Mobile First)
 
 ### **Otras herramientas**
 
@@ -30,11 +28,12 @@ Como desarrollador full stack, me especializo en construir aplicaciones desde el
 
 ## 📧 Contacto
 
-¡Estoy abierto a colaborar en proyectos innovadores o simplemente charlar sobre tecnología!
+¡Estoy abierto a colaborar en proyectos innovadores o a intercambiar ideas sobre tecnología!
 
 - **Correo electrónico**: [estebangallego2002@gmail.com](mailto:estebangallego2002@gmail.com)
 
-🌟 No dudes en contactarme, siempre estoy en busca de nuevos retos y oportunidades para seguir creciendo profesionalmente. ¡Gracias por visitar mi perfil!
+🌟 No dudes en contactarme, siempre estoy buscando nuevos desafíos y oportunidades para seguir creciendo profesionalmente. ¡Gracias por visitar mi perfil!
+
 
 <!--
 **Dagapa/Dagapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
